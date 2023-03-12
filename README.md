@@ -1,5 +1,5 @@
 
-## Projeto do Programa Desenvolve do Grupo Boticário em parceria com a Alura para validação de formulários com JavaScript.
+## Projeto do Programa One da Oracle em parceria com a Alura para validação de formulários com JavaScript.
 
 <br />
 
